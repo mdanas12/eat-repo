@@ -1,0 +1,142 @@
+body {
+    margin: 0%;
+    font-family: 'Roboto Slab', serif;
+}
+
+.text-style {
+    font-size: 50px;
+}
+
+.colour-box {
+    color: orange;
+    font-size: 70px;
+}
+
+.text-box {
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.top-banner {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 70px;
+}
+
+.main-box {
+    padding-top: 80px;
+}
+
+.main-text {
+    width: 50%;
+}
+
+.main-text img {
+    width: 100%;
+}
+
+.button-box {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(8, 7, 7), blue, yellow);
+    padding: 10px 15px;
+    border-radius: 20px;
+    font-size: 25px;
+    color: white;
+}
+
+.img-file {
+    width: 50%;
+}
+
+.img-file img {
+    width: 80%;
+}
+
+.text-file {
+    padding-top: 100px;
+}
+
+.second-box {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin: 90px 0%;
+}
+
+
+
+.div-box {
+    display: flex;
+}
+
+.header-file {
+    text-align: center;
+    font-size: 50px;
+}
+
+.box {
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 40px;
+}
+
+.div-box {
+    margin: 30px 100px;
+}
+
+.div-item {
+    width: 50%;
+    margin: 20px;
+    border: 30px solid white;
+    box-shadow: 4px 4px 25px gray;
+    border-radius: 32px;
+}
+
+.tab-tool {
+    margin: 20px;
+}
+
+.box-image {
+    margin: 0 auto;
+    width: 100%;
+
+}
+
+
+
+.last-item {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px gray;
+}
+
+
+.item-table {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.item-table h1 {
+    font-size: 40px;
+}
+
+
+footer {
+    margin-top: 80px;
+    height: 250px;
+    text-align: center;
+    background-color: rgb(13, 6, 37);
+}
+
+h2 {
+    font-size: 40px;
+    color: white;
+    padding-top: 30px;
+}
+
+.p-class {
+    color: rgb(175, 203, 228);
+    font-size: 20px;
+}
